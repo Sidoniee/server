@@ -1,4 +1,13 @@
 {
-    "todos": []
+    "todos": [   {
+        "id": 1,
+        "name": "shopping",
+        "complete": false
+      },
+      {
+        "name": "เที่ยวสวนสนุก",
+        "complete": false,
+        "id": 2
+      }]
  }
  
